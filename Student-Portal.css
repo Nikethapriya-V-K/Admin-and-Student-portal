@@ -1,0 +1,47 @@
+#student
+{
+    color: white;
+    background-color: rgba(252, 249, 249, 0.299);
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+#heads
+{
+    text-align: center;
+}
+#OTP
+{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.otp-box
+{
+    margin-top: 10px;
+    margin-left: 28%;
+    margin-bottom: 20px;
+}
+.but-Verify
+{
+    background-color: rgba(24, 2, 35, 0.299);
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: none;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    margin-left: 240px;
+}
+.load
+{
+    margin-right: 7px;
+}
+.mob-num
+{
+    margin-left: 240px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: black;
+}

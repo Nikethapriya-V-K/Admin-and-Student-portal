@@ -1,0 +1,20 @@
+#checkin
+{
+  background-color: rgba(252, 249, 249, 0.299);
+  text-align: center;
+  color: whitesmoke;
+  display: flex;
+}
+#list
+{
+  text-decoration: none;
+  display: inline;
+  color: white;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+#navbar
+{
+  padding-left: 1100px;
+  display: flex;
+}

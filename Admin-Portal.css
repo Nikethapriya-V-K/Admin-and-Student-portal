@@ -1,0 +1,22 @@
+#admin
+{
+    margin-top: 50px;
+    color: white;
+    margin-left: 400px;
+    width: 50%;
+}
+#admin h2
+{
+    text-align: center;
+}
+#admin input
+{
+    display: block;
+    margin-bottom: 10px;
+    opacity: .5;
+}
+#inputs
+{
+    padding-left: 300px;
+    padding-bottom: 30px;
+}

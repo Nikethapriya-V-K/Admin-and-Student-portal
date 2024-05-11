@@ -1,0 +1,43 @@
+#container
+{
+    margin-left: 800px;
+    margin-top: 20px;
+    display: flex;    
+}
+#but1
+{
+    margin-left: 50px;
+    text-decoration: none;
+    color: white;
+
+}
+#buts
+{
+    margin-left: 50px;
+}
+#main
+{
+    color: white;
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#sub
+{
+    margin-left: 140px;
+    margin-top: 40px;
+    width: 200px;
+    padding: 2px;
+}
+/*#student:active Student
+{
+    display: block;
+}
+#Student
+{
+    display: none;
+}
+#details
+{
+    color: white;
+}*/
